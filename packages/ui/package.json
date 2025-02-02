@@ -24,6 +24,7 @@
     "react": "^19"
   },
   "devDependencies": {
+    "@repo/database": "workspace:*",
     "@repo/eslint-config": "workspace:*",
     "@repo/tailwind-config": "workspace:*",
     "@repo/typescript-config": "workspace:*",
